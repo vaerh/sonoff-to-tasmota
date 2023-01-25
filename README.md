@@ -9,7 +9,7 @@ Columns: NAME, ADDRESS, TTL
 1 X api.coolkit.cn  52.57.118.192  1d 
 2   api.coolkit.cn  192.168.7.27   1d 
 ```
-* Download the firmware & run web-server and sonoff_unlock_server.py
+* Download the [firmware](http://ota.tasmota.com/tasmota/release/) & run web-server and sonoff_unlock_server.py
 
 ```  base
 SONOFF_IP="xxx.xxx.xxx.xxx"
